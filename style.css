@@ -1,0 +1,14 @@
+h3 {
+    font-weight: 900;
+    font-style: italic;
+}
+* {
+    background-color: beige;
+}
+img {
+    max-width: 500px;
+    max-height: auto;
+}
+div {
+    font-style: italic;
+}
